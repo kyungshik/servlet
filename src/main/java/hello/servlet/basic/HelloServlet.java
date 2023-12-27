@@ -25,5 +25,7 @@ public class HelloServlet extends HttpServlet {
         response.setContentType("text/plain");
         response.setCharacterEncoding("utf-8");
         response.getWriter().write("hello " + username);
+
+        //Http 요청 응답 메시지를 직접 작성하지 않고, 자주 쓰는 기능들을 Servlet을 통해 편리하게 사용할 수 있다.
     }
 }
