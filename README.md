@@ -37,3 +37,14 @@ FrontController 패턴을 도입한다.
 5. [단순하고 실용적인 컨트롤러 - V4](Lecture-Note/4-5.md)
 6. [유연한 컨트롤러1 - V5](Lecture-Note/4-6.md)
 7. [유연한 컨트롤러2 - V5](Lecture-Note/4-7.md)
+
+---
+
+# 스프링 MVC - 구조 이해
+
+1. [핸들러 매핑과 핸들러 어댑터](Lecture-Note/5-2.md)
+2. [뷰 리졸버](Lecture-Note/5-3.md)
+3. [스프링MVC - 시작하기](Lecture-Note/5-4.md)
+4. [스프링MVC - 컨트롤러 통합](Lecture-Note/5-5.md)
+5. [스프링MVC - 실용적인 방식](Lecture-Note/5-6.md)
+
